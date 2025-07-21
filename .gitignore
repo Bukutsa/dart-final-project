@@ -1,0 +1,47 @@
+
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+generated_plugin_registrant.dart
+
+# VS Code settings folder
+.vscode/
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/app/*.keystore
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/FlutterPluginRegistrant.*
+
+# Mac system files
+.DS_Store
+
+# Build output folder
+/build/
+
+# Dependency lock file (optional to exclude)
+pubspec.lock
+
+# Logs and temp files
+*.log
+*.lock
+*.tmp
+*.temp
+
+# Ignore any generated files you don't want to commit

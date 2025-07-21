@@ -1,0 +1,26 @@
+name: dart_final_project
+description: A Flutter app to track shopping items, budget, and consumption.
+publish_to: 'none' # since this is not a published package
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # No extra packages are currently used
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  # If you want to add assets like images locally, you can add here
+  # assets:
+  #   - assets/images/
